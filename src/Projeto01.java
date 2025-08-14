@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Principal {
+public class Projeto01 {
 
   public static void main(String[] args) {
     list();
